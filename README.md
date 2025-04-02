@@ -2,7 +2,7 @@
 
 Purpose: A multi-lingual questionnaire system to determine eligibility for Greek child benefits and calculate potential allowances.
 
-You can visit the web-based dialogue system [here](https://govgr-child-benefit-eligibility.github.io/).
+You can visit the web-based dialogue system [here](https://mai25015.github.io/child-benefit-eligibility/).
 
 ## Project Overview
 
