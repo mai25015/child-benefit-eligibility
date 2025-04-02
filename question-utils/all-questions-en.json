@@ -1,0 +1,53 @@
+[
+    {
+      "id": 0,
+      "question": "Which category do you belong to?",
+      "options": [
+        "Greek citizen",
+        "Greek expatriate",
+        "EU/EEA/Swiss citizen",
+        "Citizen of another country",
+        "Refugee / stateless person / beneficiary of humanitarian status",
+        "I do not belong to any of the above categories"
+      ]
+    },
+    {
+      "id": 1,
+      "question": "For how many consecutive years have you resided in Greece?",
+      "options": [
+        "5 or more years (for Greek citizens)",
+        "12 or more years",
+        "I have not resided in Greece for the above years"
+      ],
+      "tooltip": "The duration of residence is calculated from the date you obtained a residence permit or citizenship in Greece."
+    },
+    {
+      "id": 2,
+      "type": "checkbox",
+      "question": "Do you have a dependent child that belongs to any of the following categories?",
+      "options": [
+        "Child <18 years old",
+        "Child <19 years old (attending Secondary Education)",
+        "Child <24 years old (attending University/Vocational Institute/College)",
+        "Child <24 years old with a disability ≥67%",
+        "I do not have a dependent child that meets the above conditions"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the category of your equivalent family income?",
+      "tooltip": "The category of equivalent family income is determined based on the total family income and the number of family members.",
+      "options": [
+        "Category A (up to €6,000)",
+        "Category B (€6,001 - €10,000)",
+        "Category C (€10,001 - €15,000)",
+        "Other category (>€15,000)"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Number of dependent children",
+      "type": "number"
+    }
+  ]
+  

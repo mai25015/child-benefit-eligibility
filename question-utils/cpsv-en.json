@@ -1,0 +1,138 @@
+{
+  "PublicService": {
+    "name": "Child Benefit",
+    "evidence": [
+      {
+        "id": 1,
+        "evs": [
+          {
+            "id": "ev0001",
+            "type": "Evidence",
+            "name": "Family status certificate",
+            "description": "Issued by the Municipality, KEP (Citizen Service Centers), or via www.gov.gr. Required only if requested due to inability to cross-check data."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "evs": [
+          {
+            "id": "ev0002",
+            "type": "Evidence",
+            "name": "Certificate of enrollment",
+            "description": "Certificate of enrollment for children attending recognized educational institutions or IEK (Vocational Training Institutes) and are over 18 years old."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "evs": [
+          {
+            "id": "ev0003",
+            "type": "Evidence",
+            "name": "Disability certification from KEPA",
+            "description": "Disability assessment issued by the Disability Certification Centers (KEPA) or other competent health committees, for dependent children with a disability rate of 67% or higher."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "evs": [
+          {
+            "id": "ev0004",
+            "type": "Evidence",
+            "name": "Death certificate",
+            "description": "Extract of the Death Certificate, for close relatives of the deceased."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "evs": [
+          {
+            "id": "ev0005",
+            "type": "Evidence",
+            "name": "Court decision",
+            "description": "Court decision regarding absence, judicial support, or irrevocable court decision on guardianship."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "evs": [
+          {
+            "id": "ev0006",
+            "type": "Evidence",
+            "name": "EU citizen registration certificate or permanent residence permit",
+            "description": "EU citizen registration certificate or permanent residence permit for EU citizens or foreigners."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "evs": [
+          {
+            "id": "ev0007",
+            "type": "Evidence",
+            "name": "Special Identity Card for Expatriate Greeks",
+            "description": "For expatriate Greeks, the Special Identity Card for Expatriate Greeks."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "evs": [
+          {
+            "id": "ev0008",
+            "type": "Evidence",
+            "name": "Residence permit for foreigners",
+            "description": "Residence permit for non-EU citizens or citizens from countries belonging to the European Economic Area."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "evs": [
+          {
+            "id": "ev0009",
+            "type": "Evidence",
+            "name": "Income tax return",
+            "description": "Proof of permanent and legal residence in the country by submitting an income tax return for each fiscal year."
+          }
+        ]
+      }
+    ],
+    "criterion_requirments": [
+      {
+        "id": "cr0001",
+        "category": "Income-related",
+        "name": "The equivalent family income determines the category: \n- Category A: up to €6,000 (€70/month for the 1st and 2nd dependent, €140/month for the 3rd and subsequent dependents) \n- Category B: from €6,001 to €10,000 (€42/month for the 1st and 2nd dependent, €84/month for the 3rd and subsequent dependents) \n- Category C: from €10,001 to €15,000 (€28/month for the 1st and 2nd dependent, €56/month for the 3rd and subsequent dependents). \nBefore each payment, a recheck is conducted based on amended E1 tax declarations."
+      },
+      {
+        "id": "cr0002",
+        "category": "Permanent Residence/Stay/Settlement",
+        "name": "The applicant must have been permanently residing in the country for the last 5 years (for Greeks) or legally and permanently for 12 years (for citizens of other countries), proven by submitting an income tax return for each fiscal year."
+      },
+      {
+        "id": "cr0003",
+        "category": "Citizenship",
+        "name": "Eligible beneficiaries are: \n- Greek citizens \n- Expatriate Greeks with a Special Identity Card for Expatriate Greeks \n- Citizens of EU member states \n- Citizens of EEA countries (Norway, Iceland, Liechtenstein) and Switzerland \n- Recognized refugees \n- Stateless persons \n- Beneficiaries of humanitarian status \n- Citizens of other countries with legal residence"
+      },
+      {
+        "id": "cr0004",
+        "category": "Administrative",
+        "name": "Foreigners or expatriate Greeks holding a Special Identity Card for Expatriate Greeks must, upon application submission, have valid residence permits or attach them electronically if they cannot be cross-checked electronically."
+      },
+      {
+        "id": "cr0005",
+        "category": "Family-related",
+        "name": "Dependent children are considered: \n- Unmarried children from marriage, natural, step, or recognized, up to 18 years old (or 19 if attending Secondary Education) \n- Children enrolled in compulsory education with sufficient attendance and registration for the current school year \n- Children over 18 attending universities, TEI, IEK, Colleges, or post-secondary schools (until the end of their 24th year) \n- Children with a disability rate of 67% or higher (until the end of their 24th year)"
+      },
+      {
+        "id": "cr0006",
+        "category": "Family-related",
+        "name": "Dependent children must reside in Greece, unless their absence is due to studies at recognized institutions abroad."
+      }
+    ]
+  }
+}

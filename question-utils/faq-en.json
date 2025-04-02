@@ -1,0 +1,344 @@
+[
+    {
+        "id": 0,
+        "question": "Who is eligible for the child benefit?",
+        "answer": "The child benefit is granted, upon application, to the categories of individuals mentioned in Question 34, provided that: They reside legally and permanently in Greece. Their dependent children are in Greece."
+    },
+    {
+        "id": 2,
+        "question": "How often should I submit a child benefit application (A21)?",
+        "answer": "The A21 application should be submitted: Once a year, from March of each year until January 15th of the following year. Via the A21 platform (OPKE or HDIKA AE website) using Taxisnet. Important: For any changes, modify the application within 1 month (only the fields with changes)."
+    },
+    {
+        "id": 3,
+        "question": "I submitted the A21 application, but it is not showing as 'Approved' – it only says 'Submitted'. Do I need to do something?",
+        "answer": "No, the final submission is sufficient. If the criteria are met, the message will appear: 'According to the current data, you are eligible for the child benefit and the following amounts are calculated'."
+    },
+    {
+        "id": 4,
+        "question": "I attached supporting documents when creating the A21 application, and after checking, the note appears: 'The verification of the digitized document by OPKE has not been completed'. What should I do?",
+        "answer": "Yes, submit the application definitively if it's correct. The verification takes place after submission. Follow-up: Check the status of the application for: Completion of verification. Approval/Denial of supporting document."
+    },
+    {
+        "id": 5,
+        "question": "We had a child during the current year. When should we apply?",
+        "answer": "You are eligible for the benefit from the next month after the birth. Submit the application within the limits of Question 2. Note: Children born in December are not eligible for the benefit for the current year."
+    },
+    {
+        "id": 6,
+        "question": "How do I add a new child to a previously submitted A21 application?",
+        "answer": "1. View the application. 2. Click 'Create Modification Application'. 3. Add Child (enter only surname + AMKA). 4. Follow the instructions."
+    },
+    {
+        "id": 7,
+        "question": "Dependent members are not recognized because the surnames of the children do not match their AMKA. What should I do?",
+        "answer": "1. Verify that you entered only the surname (not the first name) and the AMKA. 2. Check the details on amka.gr or at KEP. If the issue persists: Cancel the application and submit a new one with corrected details."
+    },
+    {
+        "id": 8,
+        "question": "What does the requirement of attending compulsory education mean for minor children?",
+        "answer": "Children aged 4–16 must: (a) Be enrolled (2024–2025). (b) Complete their schooling by 30/6/2025 (without unjustified absences). Approval: By 30/6/2025: Only (a). From 1/7/2025: Both (a) and (b)."
+    },
+    {
+        "id": 9,
+        "question": "When submitting the A21 application, I am asked to complete details about the children's schooling. What should I do?",
+        "answer": "In the 'Schooling Details' field, enter: (a) School, Grade, Registration Number (for compulsory education). (b) Year of completion of Junior High School (if completed). If verified, the application proceeds. If not, a note will appear."
+    },
+    {
+        "id": 10,
+        "question": "My child is attending compulsory education, but the attendance is not confirmed electronically. What should I do?",
+        "answer": "Attach: Enrollment/attendance certificate (for the current year). Junior High School diploma (if completed). Notes: For High School, either a certificate of attendance in High School or a Junior High School diploma is accepted."
+    },
+    {
+        "id": 11,
+        "question": "My child is between 4 and 16 years old, but is not attending compulsory education. Am I eligible for the benefit?",
+        "answer": "No. Attendance in compulsory education is a necessary condition for granting the benefit."
+    },
+    {
+        "id": 12,
+        "question": "If my dependent child is required to repeat the grade due to unjustified absences, am I still eligible for the benefit?",
+        "answer": "No, if by 30/6/2025 the child has not completed their education properly (due to unjustified absences), the benefit will be interrupted from 1/7/2025 to 31/12/2025 and will not be reinstated, even if they re-enroll in the following school year (2025–2026)."
+    },
+    {
+        "id": 13,
+        "question": "My child graduated from high school last year and is now a university student. Are they considered a dependent child for the benefit?",
+        "answer": "Yes, but only from January 1st of the year their studies begin. Example: If they started studies in October 2024, they will be considered a dependent child from 1/1/2025."
+    },
+    {
+        "id": 14,
+        "question": "A child who transferred to a new academic institution this year, are they considered a dependent child?",
+        "answer": "Yes, as long as you enter both the old and new academic identity numbers in the relevant fields of the application."
+    },
+    {
+        "id": 15,
+        "question": "My dependent child graduated this year. Am I still eligible for the benefit?",
+        "answer": "Yes, until the end of the academic year: For graduation by August: Until 31/8. For graduation from September: Until 31/12."
+    },
+    {
+        "id": 16,
+        "question": "Is a dependent child over 19 years old attending an Apprenticeship School (EPAS) eligible for the benefit?",
+        "answer": "No, children in EPAS are not considered dependents for the benefit."
+    },
+    {
+        "id": 17,
+        "question": "Does the disability pension I receive count towards family income?",
+        "answer": "Yes, the disability pension counts. No, disability allowances and the extra-institutional allowance (from 1/1/2022) are not counted."
+    },
+    {
+        "id": 18,
+        "question": "I am a third-country citizen and received the benefit in 2020–2024. In 2025, do I need to have lived in Greece for 12 years?",
+        "answer": "No, as you have already received the benefit in previous years, the 12-year residency requirement does not apply for 2025. Condition: You must have submitted a tax return for 2024 within the deadline."
+    },
+    {
+        "id": 19,
+        "question": "My residence permit expired, and the benefit was discontinued. How can I restore it?",
+        "answer": "Attach the new residence permit to the application. The benefit will be reinstated only after an OPKE check. Important: The permit must clearly show identity details and its duration."
+    },
+    {
+        "id": 20,
+        "question": "The system does not accept document attachments. What should I do?",
+        "answer": "Attachment is required only if there is a relevant notification. In all other cases, you do not need to attach anything."
+    },
+    {
+        "id": 21,
+        "question": "The application displays the message 'The total family income cannot be retrieved.' What does this mean?",
+        "answer": "Check if: 1. All family members have submitted tax returns (E1) for the required years. 2. The returns have been cleared by AADE."
+    },
+    {
+        "id": 22,
+        "question": "The child's tax identification number (AFM) is required, but the system won't let me enter it. What should I do?",
+        "answer": "For children born in 2007 and later: AFM is not required. For children born in 2006 or earlier: AFM is mandatory. If missing, visit a KEP to update the AMKA. Then, cancel the current application and submit a new one."
+    },
+    {
+        "id": 23,
+        "question": "The child's AFM was entered into the AMKA, but the application will not submit.",
+        "answer": "Updating the AMKA with the AFM happens immediately. Solution: Cancel the current application and submit a new one."
+    },
+    {
+        "id": 24,
+        "question": "How do I prove my permanent residence in Greece or the parent’s AFM for previous years?",
+        "answer": "Permanent residence is verified automatically through tax returns (E1) for: 2020–2024 (for Greek citizens). 2013–2024 (for third-country nationals). No additional documents are needed, as long as the returns were submitted on time."
+    },
+    {
+        "id": 11,
+        "question": "My child is between 4 and 16 years old, but is not attending compulsory education. Am I eligible for the benefit?",
+        "answer": "No. Attendance in compulsory education is a necessary condition for granting the benefit."
+    },
+    {
+        "id": 12,
+        "question": "If my dependent child is required to repeat the grade due to unjustified absences, am I still eligible for the benefit?",
+        "answer": "No, if by 30/6/2025 the child has not completed their education properly (due to unjustified absences), the benefit will be interrupted from 1/7/2025 to 31/12/2025 and will not be reinstated, even if they re-enroll in the following school year (2025–2026)."
+    },
+    {
+        "id": 13,
+        "question": "My child graduated from high school last year and is now a university student. Are they considered a dependent child for the benefit?",
+        "answer": "Yes, but only from January 1st of the year their studies begin. Example: If they started studies in October 2024, they will be considered a dependent child from 1/1/2025."
+    },
+    {
+        "id": 14,
+        "question": "A child who transferred to a new academic institution this year, are they considered a dependent child?",
+        "answer": "Yes, as long as you enter both the old and new academic identity numbers in the relevant fields of the application."
+    },
+    {
+        "id": 15,
+        "question": "My dependent child graduated this year. Am I still eligible for the benefit?",
+        "answer": "Yes, until the end of the academic year: For graduation by August: Until 31/8. For graduation from September: Until 31/12."
+    },
+    {
+        "id": 16,
+        "question": "Is a dependent child over 19 years old attending an Apprenticeship School (EPAS) eligible for the benefit?",
+        "answer": "No, children in EPAS are not considered dependents for the benefit."
+    },
+    {
+        "id": 17,
+        "question": "Does the disability pension I receive count towards family income?",
+        "answer": "Yes, the disability pension counts. No, disability allowances and the extra-institutional allowance (from 1/1/2022) are not counted."
+    },
+    {
+        "id": 18,
+        "question": "I am a third-country citizen and received the benefit in 2020–2024. In 2025, do I need to have lived in Greece for 12 years?",
+        "answer": "No, as you have already received the benefit in previous years, the 12-year residency requirement does not apply for 2025. Condition: You must have submitted a tax return for 2024 within the deadline."
+    },
+    {
+        "id": 19,
+        "question": "My residence permit expired, and the benefit was discontinued. How can I restore it?",
+        "answer": "Attach the new residence permit to the application. The benefit will be reinstated only after an OPKE check. Important: The permit must clearly show identity details and its duration."
+    },
+    {
+        "id": 20,
+        "question": "The system does not accept document attachments. What should I do?",
+        "answer": "Attachment is required only if there is a relevant notification. In all other cases, you do not need to attach anything."
+    },
+    {
+        "id": 21,
+        "question": "The application displays the message 'The total family income cannot be retrieved.' What does this mean?",
+        "answer": "Check if: 1. All family members have submitted tax returns (E1) for the required years. 2. The returns have been cleared by AADE."
+    },
+    {
+        "id": 22,
+        "question": "The child's tax identification number (AFM) is required, but the system won't let me enter it. What should I do?",
+        "answer": "For children born in 2007 and later: AFM is not required. For children born in 2006 or earlier: AFM is mandatory. If missing, visit a KEP to update the AMKA. Then, cancel the current application and submit a new one."
+    },
+    {
+        "id": 23,
+        "question": "The child's AFM was entered into the AMKA, but the application will not submit.",
+        "answer": "Updating the AMKA with the AFM happens immediately. Solution: Cancel the current application and submit a new one."
+    },
+    {
+        "id": 24,
+        "question": "How do I prove my permanent residence in Greece or the parent’s AFM for previous years?",
+        "answer": "Permanent residence is verified automatically through tax returns (E1) for: 2020–2024 (for Greek citizens). 2013–2024 (for third-country nationals). No additional documents are needed, as long as the returns were submitted on time."
+    },
+    {
+        "id": 11,
+        "question": "My child is between 4 and 16 years old, but is not attending compulsory education. Am I eligible for the benefit?",
+        "answer": "No. Attendance in compulsory education is a necessary condition for granting the benefit."
+    },
+    {
+        "id": 12,
+        "question": "If my dependent child is required to repeat the grade due to unjustified absences, am I still eligible for the benefit?",
+        "answer": "No, if by 30/6/2025 the child has not completed their education properly (due to unjustified absences), the benefit will be interrupted from 1/7/2025 to 31/12/2025 and will not be reinstated, even if they re-enroll in the following school year (2025–2026)."
+    },
+    {
+        "id": 13,
+        "question": "My child graduated from high school last year and is now a university student. Are they considered a dependent child for the benefit?",
+        "answer": "Yes, but only from January 1st of the year their studies begin. Example: If they started studies in October 2024, they will be considered a dependent child from 1/1/2025."
+    },
+    {
+        "id": 14,
+        "question": "A child who transferred to a new academic institution this year, are they considered a dependent child?",
+        "answer": "Yes, as long as you enter both the old and new academic identity numbers in the relevant fields of the application."
+    },
+    {
+        "id": 15,
+        "question": "My dependent child graduated this year. Am I still eligible for the benefit?",
+        "answer": "Yes, until the end of the academic year: For graduation by August: Until 31/8. For graduation from September: Until 31/12."
+    },
+    {
+        "id": 16,
+        "question": "Is a dependent child over 19 years old attending an Apprenticeship School (EPAS) eligible for the benefit?",
+        "answer": "No, children in EPAS are not considered dependents for the benefit."
+    },
+    {
+        "id": 17,
+        "question": "Does the disability pension I receive count towards family income?",
+        "answer": "Yes, the disability pension counts. No, disability allowances and the extra-institutional allowance (from 1/1/2022) are not counted."
+    },
+    {
+        "id": 18,
+        "question": "I am a third-country citizen and received the benefit in 2020–2024. In 2025, do I need to have lived in Greece for 12 years?",
+        "answer": "No, as you have already received the benefit in previous years, the 12-year residency requirement does not apply for 2025. Condition: You must have submitted a tax return for 2024 within the deadline."
+    },
+    {
+        "id": 19,
+        "question": "My residence permit expired, and the benefit was discontinued. How can I restore it?",
+        "answer": "Attach the new residence permit to the application. The benefit will be reinstated only after an OPKE check. Important: The permit must clearly show identity details and its duration."
+    },
+    {
+        "id": 20,
+        "question": "The system does not accept document attachments. What should I do?",
+        "answer": "Attachment is required only if there is a relevant notification. In all other cases, you do not need to attach anything."
+    },
+    {
+        "id": 21,
+        "question": "The application displays the message 'The total family income cannot be retrieved.' What does this mean?",
+        "answer": "Check if: 1. All family members have submitted tax returns (E1) for the required years. 2. The returns have been cleared by AADE."
+    },
+    {
+        "id": 22,
+        "question": "The child's tax identification number (AFM) is required, but the system won't let me enter it. What should I do?",
+        "answer": "For children born in 2007 and later: AFM is not required. For children born in 2006 or earlier: AFM is mandatory. If missing, visit a KEP to update the AMKA. Then, cancel the current application and submit a new one."
+    },
+    {
+        "id": 23,
+        "question": "The child's AFM was entered into the AMKA, but the application will not submit.",
+        "answer": "Updating the AMKA with the AFM happens immediately. Solution: Cancel the current application and submit a new one."
+    },
+    {
+        "id": 24,
+        "question": "How do I prove my permanent residence in Greece or the parent’s AFM for previous years?",
+        "answer": "Permanent residence is verified automatically through tax returns (E1) for: 2020–2024 (for Greek citizens). 2013–2024 (for third-country nationals). No additional documents are needed, as long as the returns were submitted on time."
+    },
+    {
+        "id": 25,
+        "question": "How is the annual family income determined for the child benefit?",
+        "answer": "The income is calculated based on the total actual or deemed income (before taxes, after deducting social security contributions) of all family members who participate in the A21 application and have a Tax Identification Number (AFM) with an obligation to submit a tax return. Benefits exempt from taxable income are not included. The calculation is automatically done by AADE through interoperability with the A21 platform. The amount is the sum of all incomes of the participating AFMs, without analysis by member or source."
+    },
+    {
+        "id": 26,
+        "question": "Why does the system show a higher income than the one in my tax return?",
+        "answer": "The taxable income (Table G1) also includes amounts from Table D1 (separately taxed incomes), excluding non-countable benefits (e.g., child benefit from previous years)."
+    },
+    {
+        "id": 27,
+        "question": "Why are amounts deducted as 'undue payments' from the previous year?",
+        "answer": "If a modified tax return is submitted for a previous year and the income increases, the benefit is recalculated. If you received a higher amount, the difference needs to be refunded (offset against future payments). If you received a lower amount, the difference will be paid retroactively."
+    },
+    {
+        "id": 28,
+        "question": "The KEPs do not register the residence permit number in the AMKA. What should I do?",
+        "answer": "It is not required to register the residence permit in AMKA. It is sufficient to correct the full name and date of birth (if they differ from the permit). Then, cancel and submit a new A21 application to update the details."
+    },
+    {
+        "id": 29,
+        "question": "My residence permit is valid, but the A21 application does not proceed. What should I do?",
+        "answer": "Attach the residence permit to the online application. The benefit will be approved only after an OPKE check. Note: The permit must clearly show identity details and its duration."
+    },
+    {
+        "id": 30,
+        "question": "How many years of legal residence are required for the benefit?",
+        "answer": "Greek citizens/EU citizens/Greeks abroad/refugees: Last 5 years of legal and permanent residence. Citizens of other countries: Last 12 years of legal and permanent residence."
+    },
+    {
+        "id": 31,
+        "question": "How is legal and permanent residence proven?",
+        "answer": "Only by submitting tax returns (E1) for each year, within the deadline. Late submissions are not accepted."
+    },
+    {
+        "id": 32,
+        "question": "Can I submit late tax returns to cover missing years?",
+        "answer": "No. Only tax returns submitted within the deadline will be considered."
+    },
+    {
+        "id": 33,
+        "question": "Can I receive a benefit for previous years if I did not submit an application?",
+        "answer": "No. The deadline for submitting applications for previous years has passed."
+    },
+    {
+        "id": 34,
+        "question": "Is the child benefit exempt from seizure?",
+        "answer": "Yes. It cannot be seized for debts or offset against liabilities (Article 15 Law 4659/2020)."
+    },
+    {
+        "id": 35,
+        "question": "When do I become eligible for the benefit for a child born in 2025?",
+        "answer": "From the next month after the birth (e.g., January birth → benefit from February). Children born in December are not eligible for the 2025 benefit (they will be included in the 2026 application)."
+    },
+    {
+        "id": 36,
+        "question": "Do I have to be the account holder of the bank account (IBAN) I provide?",
+        "answer": "Yes. The account must be in your name or you must be a co-holder."
+    },
+    {
+        "id": 37,
+        "question": "What changes in the payments from May 2025?",
+        "answer": "The benefit will be paid via a prepaid card. More information: OPEKA - Payments via card (https://opeka.gr/enimerosi-dikaioychon-gia-ton-neo-tropo-katavolis-pronoiakon-parochon-meso-propliromenon-karton/)."
+    },
+    {
+        "id": 38,
+        "question": "How do I return undue payments?",
+        "answer": "Deposit to account GR 78 01710170 0060 1703 0022 477 (Piraeus Bank). Send a copy of the deposit slip (PDF) to the relevant OPEKA service. Service email list: IDIKA - Contact (https://www.idika.gr/epidomapaidiou/Home/Contact)."
+    },
+    {
+        "id": 39,
+        "question": "How do I request a certificate for the child benefit received?",
+        "answer": "Fill out the application form (https://opeka.gr/wp-content/uploads/2023/11/ΑΙΤΗΣΗ-ΧΟΡΗΓΗΣΗΣ-ΒΕΒΑΙΩΣΗΣ-ΕΠΙΔΟΜΑΤΟΣ-ΠΑΙΔΙΟΥ-Α21-1.pdf). Send it by email to the relevant service with the subject 'Certificate for child benefit'."
+    },
+    {
+        "id": 40,
+        "question": "How do I submit an administrative appeal for an OPEKA decision?",
+        "answer": "Fill out the appeal form (https://opeka.gr/endika-mesa-prosfyges/). Send it by email to the relevant service with the subject 'Administrative appeal for child benefit'. Service email list: IDIKA - Contact (https://www.idika.gr/epidomapaidiou/Home/Contact)."
+    }
+    
+]
+

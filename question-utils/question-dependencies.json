@@ -1,0 +1,24 @@
+{
+  "questionDependencies": {
+    "1": {
+      "dependsOn": 0,
+      "options": {
+        "greekCitizen": {
+          "en": "5 or more years (for Greek citizens)",
+          "el": "5 ή περισσότερα έτη"
+        },
+        "otherCitizen": {
+          "en": "12 or more years",
+          "el": "12 ή περισσότερα έτη"
+        },
+        "notResided": {
+          "en": "I have not resided in Greece for the above years",
+          "el": "Δεν έχω διαμείνει στην Ελλάδα για τα παραπάνω έτη"
+        }
+      },
+      "conditions": {
+        "greekCitizenAnswer": 0
+      }
+    }
+  }
+}
