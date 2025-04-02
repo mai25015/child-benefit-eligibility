@@ -90,6 +90,7 @@ project
 │   ├── not-eligible-message.png     # Screenshot for not eligible message display
 │   └── start-page-faqs.png          # Screenshot showing the start page FAQs
 └── styles.css                       # Custom CSS styles for the project
+```
 
 Here’s a visual guide to the steps:
 <div float="left">
